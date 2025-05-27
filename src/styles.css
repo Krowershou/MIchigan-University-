@@ -92,3 +92,13 @@ h2 {
     transform: scale(1.03);
     box-shadow: 0 8px 24px rgba(0,0,0,0.18);
 }
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
